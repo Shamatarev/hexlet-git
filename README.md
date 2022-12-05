@@ -1,4 +1,2 @@
-new text
-test
-test
+no code no pain
 experiment with amend
